@@ -31,4 +31,4 @@ Please suggest ways for both - Windows and linux OS.
 - Put the index.js file into the desired folder
 - Open terminal with path of this folder
 - Run node index.js
-- Done
+- Done :)
